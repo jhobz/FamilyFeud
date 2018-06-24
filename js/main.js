@@ -1,5 +1,5 @@
 var app = {
-	version: 1,
+	version: '1.0.1',
 	currentQ: 0,
 	sound: new Audio('assets/ding2.mp3'),
 	answers: [

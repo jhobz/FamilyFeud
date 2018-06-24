@@ -30,6 +30,7 @@ body {
 }
 
 .gameBoard {
+	transform: scale(1.3);
 	position: relative;
 	font-family: helvetica, sans-serif;
 	color: white;
